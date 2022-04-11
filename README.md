@@ -48,6 +48,7 @@ In de console komt
 worden  
 geplaatst  
 volgorde  
+omgekeerde  
 in  
 moeten  
 woorden  
